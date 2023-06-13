@@ -1,0 +1,11 @@
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\bin\Debug\ChickenOrEgg.exe.config
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\bin\Debug\ChickenOrEgg.exe
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\bin\Debug\ChickenOrEgg.pdb
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.csproj.SuggestedBindingRedirects.cache
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.frmMain.resources
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.Properties.Resources.resources
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.csproj.GenerateResource.cache
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.exe
+C:\Users\922747\source\repos\ChickenOrEgg\ChickenOrEgg\obj\Debug\ChickenOrEgg.pdb
